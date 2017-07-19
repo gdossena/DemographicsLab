@@ -15,7 +15,7 @@ Enjoy exploring the world evolution over the time span 1960-2014 by moving the s
 Additional controls
 -------------------
 
-Select the checkbox called "pop. size" if you want the size of the dots in the scatter plot as being proportional to the population size of each country.
+Select the checkbox called "pop. size" if you want the size of the dots in the scatter plot to be proportional to the population size of each country.
 
 Choose a specific country from the dropdown menu if you want to follow it along the evolution, or if you just want to know which dot is which country.
 
