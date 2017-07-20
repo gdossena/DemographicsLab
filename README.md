@@ -2,6 +2,7 @@
 
 A Jupyter Notebook interactive dashboard to investigate correlations over time among five demographic indicators.
 
+![screenshot](docs/images/screenshot.png)
 
 ## Usage
 
